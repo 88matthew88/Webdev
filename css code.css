@@ -1,0 +1,78 @@
+
+*
+{
+    text-align: left;
+	
+}
+
+body
+{
+	background-color:#B1C4BB;
+}
+
+
+#line
+{
+    border: 5px solid black;
+    height: 0px;
+	width: 100%;
+	border: 2px solid black;   
+}
+
+#top
+{
+    
+    height: 100%;
+	width: 800px;
+	
+	
+}
+
+img 
+{
+    float:right;
+    width:300px;
+    height:370px;
+    margin: -70px 30px 0 0; 
+    
+}
+
+dt
+{
+	font-style:italic;
+	font-weight:bold;
+	text-align:right;
+	padding: 0 25px 0 0 ;
+	width: 150px; 
+	float: left; 
+	height: 100px; 
+	border-right: 1px solid black;
+}
+
+dd
+{
+	text-align:left;
+	width: 600px; 
+	float: left; 
+	
+}
+
+#class
+{
+	clear:both;
+}
+
+#first
+{
+	color:#3d3d3d;
+}
+
+
+#rotate
+{
+	-webkit-transform: rotate(5deg);
+    -moz-transform: rotate(5deg);
+    -o-transform: rotate(5deg);
+    -ms-transform: rotate(5deg);
+    transform: rotate(5deg);
+}
